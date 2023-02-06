@@ -4,7 +4,7 @@
 
 <?php
 
-$heading = "homepage";
+$heading = "story";
 
 ?>
 
@@ -17,4 +17,3 @@ $heading = "homepage";
 </main>
 
 <?php require "partials/foot.php" ?>
-    
